@@ -1,0 +1,2 @@
+CREATE USER 'meomeo'@'localhost' IDENTIFIED BY 'meo123';
+GRANT ALL PRIVILEGES ON flashtel . * TO 'meomeo'@'localhost';
